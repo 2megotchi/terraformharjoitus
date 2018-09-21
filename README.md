@@ -126,7 +126,7 @@ export TF_VAR_machine_type=n1-standard-1
 
 export TF_VAR_cloudflare_email=
 export TF_VAR_cloudflare_token=
-export TF_VAR_cloudflare_zone=
+export TF_VAR_cloudflare_domain=
 ```
 
 # Terraform komennot

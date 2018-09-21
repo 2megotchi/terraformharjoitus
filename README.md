@@ -27,7 +27,7 @@ variable "machine_type" {
 
 variable "cloudflare_email" {}
 variable "cloudflare_token" {}
-variable "cloudflare_zone" {}
+variable "cloudflare_domain" {}
 ```
 
 # project.tf tiedosto
